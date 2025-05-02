@@ -74,6 +74,28 @@
 </div>
 <script src="assets/js/jquery.min.js"></script>
 <script src="assets/js/sv.js" type="text/javascript"></script>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    const tabs = document.querySelectorAll('#myTab .nav-link');
+    const panes = document.querySelectorAll('.tab-pane');
+
+    tabs.forEach(tab => {
+        tab.addEventListener('click', function (e) {
+            e.preventDefault();
+
+            // Remove active class from all tabs and panes
+            tabs.forEach(t => t.classList.remove('active'));
+            panes.forEach(p => p.classList.remove('active'));
+
+            // Activate clicked tab and corresponding pane
+            this.classList.add('active');
+            const target = this.getAttribute('data-tab');
+            document.getElementById(target).classList.add('active');
+        });
+    });
+});
+</script>
 </body>
 
 </html>

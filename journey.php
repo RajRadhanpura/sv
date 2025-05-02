@@ -40,13 +40,13 @@
                                         alt=""
                                         class="post-item-image">
                                     <div class="post-read-more">
-                                        <h6>A real estate consultancy company.</h6>
+                                        <h6 class="fw-500">A real estate consultancy company.</h6>
                                         <img
                                             src="5f3558801756d75c4fdb8de6/5f4e53d36c04ec244cab75de_arrow-right-black-1.svg"
                                             loading="lazy" alt="" class="read-more-arrow">
                                     </div>
                                 </div>
-                                <h4>1. Managing Director of <br />Meghnad Infraspaces Pvt. Ltd.</h4>
+                                <h4 class="main-heading-small">1. Managing Director of <br />Meghnad Infraspaces Pvt. Ltd.</h4>
                             </a>
                         </div>
                     </div>
@@ -94,13 +94,13 @@
                                     alt=""
                                     class="post-item-image">
                                 <div class="post-read-more">
-                                    <h6>Revolutionizing travel and tourism.</h6>
+                                    <h6 class="fw-500">Revolutionizing travel and tourism.</h6>
                                     <img
                                         src="5f3558801756d75c4fdb8de6/5f4e53d36c04ec244cab75de_arrow-right-black-1.svg"
                                         loading="lazy" alt="" class="read-more-arrow">
                                 </div>
                             </div>
-                            <h4>2. Founder of Meghnad Holidays </h4>
+                            <h4 class="main-heading-small">2. Founder of Meghnad Holidays </h4>
                         </a>
                     </div>
                     <div role="listitem" class="post-collection-item w-dyn-item">
@@ -112,13 +112,13 @@
                                     alt=""
                                     class="post-item-image">
                                 <div class="post-read-more">
-                                    <h6>A property exploration app designed to simplify real estate.</h6>
+                                    <h6 class="fw-500">A property exploration app designed for real estate.</h6>
                                     <img
                                         src="5f3558801756d75c4fdb8de6/5f4e53d36c04ec244cab75de_arrow-right-black-1.svg"
                                         loading="lazy" alt="" class="read-more-arrow">
                                 </div>
                             </div>
-                            <h4>3. Co-founder of Ghar Gallery </h4>
+                            <h4 class="main-heading-small">3. Co-founder of Ghar Gallery </h4>
                         </a>
                     </div>
                     <div role="listitem" class="post-collection-item w-dyn-item">
@@ -128,13 +128,13 @@
                                     src="assets/img/unsane.jpg"
                                     alt="" class="post-item-image">
                                 <div class="post-read-more">
-                                    <h6>A creative hub for branding and advertising.</h6>
+                                    <h6 class="fw-500">A creative hub for branding and advertising.</h6>
                                     <img
                                         src="5f3558801756d75c4fdb8de6/5f4e53d36c04ec244cab75de_arrow-right-black-1.svg"
                                         loading="lazy" alt="" class="read-more-arrow">
                                 </div>
                             </div>
-                            <h4>4. Co-founder of<br /> Unsane Media Pvt. Ltd.</h4>
+                            <h4 class="main-heading-small">4. Co-founder of<br /> Unsane Media Pvt. Ltd.</h4>
                         </a>
                     </div>
                 </div>
