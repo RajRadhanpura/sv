@@ -2580,7 +2580,7 @@ figcaption {
 
 .hero-text {
   overflow: hidden;
-  font-size: 350px;
+  font-size: 300px;
   line-height: 1;
   font-weight: 500;
 }
@@ -5929,15 +5929,16 @@ figcaption {
   display: flex;
   justify-content: center;
 }
+
 /* 
 .initiatives-img {
   max-width: 200px;
 } */
-.fw-500{
+.fw-500 {
   font-weight: 500 !important;
 }
 
-.main-heading-small{
+.main-heading-small {
   font-size: 32px;
   line-height: 120%;
 }
@@ -5949,11 +5950,17 @@ figcaption {
 .tab-pane.active {
   display: block;
 }
-#myTab{
+
+#myTab {
   list-style: none;
   padding-left: 0px;
 }
-.w-75{
+
+.w-75 {
   width: 75%;
-  max-width: 75%; 
+  max-width: 75%;
+}
+
+.hero-text-contact {
+  font-size: 120px;
 }

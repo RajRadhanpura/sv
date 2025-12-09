@@ -83,11 +83,11 @@
             <div role="list" class="project-collection-list w-dyn-items">
                 <div role="listitem" class="project-collection-item w-dyn-item">
                     <a
-                        href="#" class="project-item w-inline-block">
+                        href="initiatives.php#savanvorashow" class="project-item w-inline-block">
                         <div style="background-color:#8faeb3" class="project-bg-color"></div>
                         <h2 class="project-item-title">The Savan Vora Show</h2>
                         <img alt=""
-                            src="5f3abd39725ac70d39bbacf4/5f5798953dcf4212b5786a63_the-creative-exchange.jpg"
+                            src="assets/img/tsvs.png"
                             class="project-item-image">
                         <img
                             src="5f3558801756d75c4fdb8de6/5f3ac016725ac7080abbb5a1_right-white-arrow.svg" alt=""
@@ -96,9 +96,9 @@
                 </div>
                 <div role="listitem" class="project-collection-item w-dyn-item">
                     <a
-                        href="#" class="project-item w-inline-block">
+                        href="mentorship.php" class="project-item w-inline-block">
                         <div style="background-color:#b0bbbd" class="project-bg-color"></div>
-                        <h2 class="project-item-title">Mentorship</h2>
+                        <h2 class="project-item-title">Savan Vora as a Mentor</h2>
                         <img alt=""
                             src="5f3abd39725ac70d39bbacf4/5f57a09e8a558803a639a569_toa-heftiba-tuRjt0xstBw-unsplash-2.jpg"
                             class="project-item-image">
@@ -108,11 +108,12 @@
                     </a>
                 </div>
                 <div role="listitem" class="project-collection-item w-dyn-item">
-                    <a href="#"
+                    <a href="mentorship.php"
                         class="project-item w-inline-block">
                         <div style="background-color:hsla(30.352941176470587, 53.23%, 70.07%, 1.00)"
                             class="project-bg-color"></div>
-                        <h2 class="project-item-title">Entrepreneur</h2><img alt=""
+                        <h2 class="project-item-title">Savan Vora as a Entrepreneur</h2>
+                        <img alt=""
                             src="5f3abd39725ac70d39bbacf4/5f58d11702e149168fe161de_pulsitos-com-qlArwrLUfBE-unsplash.jpg"
                             class="project-item-image">
                         <img
@@ -120,11 +121,11 @@
                             class="project-item-arrow">
                     </a>
                 </div>
-                <div role="listitem" class="project-collection-item w-dyn-item">
-                    <a href="#"
+                <!-- <div role="listitem" class="project-collection-item w-dyn-item">
+                    <a href="initiatives.php"
                         class="project-item w-inline-block">
                         <div style="background-color:#c0bab4" class="project-bg-color"></div>
-                        <h2 class="project-item-title">Insights</h2>
+                        <h2 class="project-item-title">Savan Vora's Initiatives</h2>
                         <img alt=""
                             src="5f3abd39725ac70d39bbacf4/5f58edfeb0f0d7b0be6185b7_windows-139Uv2t0Ez0-unsplash-2.jpg"
                             class="project-item-image">
@@ -132,7 +133,7 @@
                             src="5f3558801756d75c4fdb8de6/5f3ac016725ac7080abbb5a1_right-white-arrow.svg" alt=""
                             class="project-item-arrow">
                     </a>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
@@ -194,7 +195,7 @@
             </div>
         </div>
         <div class="text-center-btn">
-            <a href="Investors.php" target="_blank" class="link footer-link w-max-width">
+            <a href="mentorship.php" target="_blank" class="link footer-link w-max-width">
                 <div>And Many More...</div>
                 <div class="link-underline"></div>
             </a>
